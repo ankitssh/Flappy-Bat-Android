@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\LoadScore.js">
+    <Files>
+      <File FileName="Assets\scripts\RandomGeneration1.js" Line="4" Column="3" />
+      <File FileName="Assets\scripts\Score.js" Line="30" Column="1" />
+      <File FileName="Assets\scripts\LoadScore.js" Line="4" Column="3" />
+      <File FileName="Assets\scripts\FlyScript.js" Line="15" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
